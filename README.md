@@ -1,6 +1,8 @@
 # IsaacSim Typings
 
-Supports Isaac Sim 4.5.0 (Isaac Sim 5.0 Support coming soon) 
+**IsaacSim 5.0 support: https://github.com/work-r-labs/isaacsim_typings_5**
+
+Supports Isaac Sim 4.5.0 (see link above for 5.0) 
 
 This repo contains unofficial generated stub files generated from NVIDIA's Isaacsim for use with VSCode/Cursor to enable type completion / checking and AI assitance.
 
